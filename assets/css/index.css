@@ -1,0 +1,32 @@
+#hat {
+    color: white;
+    border: solid wheat;
+    padding: 5px;
+    border-radius: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#Home {
+    padding: 100px;
+    margin: 2px; /* Отступ 10px со всех сторон */
+
+    background: lightblue;
+    border: solid wheat;
+    border-radius: 10px;
+}
+#fouter {
+    padding: 50px;
+    padding-left: 70px;
+    color: whitesmoke;
+}
+button {
+    background: lightcyan;
+    border-radius: 10px;
+}
+button:hover {
+    background: rgb(58, 114, 133);
+    color: white;
+}
+body {
+    padding: auto;
+    background: black;
+}
